@@ -1,0 +1,8 @@
+{
+  "name": "netlify-plugin-affiliate-monitor",
+  "version": "1.0.0",
+  "description": "Netlify build plugin that validates affiliate tracking URLs and auto-replaces broken ones with a fallback.",
+  "main": "index.js",
+  "keywords": ["netlify", "netlify-plugin", "affiliate", "link-checker", "impact-radius"],
+  "license": "MIT"
+}
